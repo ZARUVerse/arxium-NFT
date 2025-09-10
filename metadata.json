@@ -1,0 +1,12 @@
+{
+  "name": "ARXIUM – Leader of DAO",
+  "description": "The sovereign node of ZARUverse. ARXIUM governs the decentralized realm with wisdom and code.",
+  "image": "ipfs://bafybeicnqkwl622oapuzfps453u3eih4vpt4fhryox552itklk7ecdvg5i",
+  "attributes": [
+    { "trait_type": "Role", "value": "Leader of DAO" },
+    { "trait_type": "Origin", "value": "Cryptonia Core" },
+    { "trait_type": "Eye", "value": "Glowing Blue" },
+    { "trait_type": "Cloak", "value": "Binary Red" },
+    { "trait_type": "Emblem", "value": "Golden DAO Seal" }
+  ]
+}
